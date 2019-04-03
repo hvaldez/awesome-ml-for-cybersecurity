@@ -44,6 +44,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Papers
 
+* [Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection](http://www.cs.ucsb.edu/~bzong/doc/iclr18-dagmm.pdf)
 * [Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 * [Outside the Closed World: On Using Machine Learning for Network Intrusion Detection](http://ieeexplore.ieee.org/document/5504793/?reload=true)
 * [Anomalous Payload-Based Network Intrusion Detection](https://link.springer.com/chapter/10.1007/978-3-540-30143-1_11)
